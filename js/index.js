@@ -540,11 +540,10 @@ sr.reveal('.textoSeccion3', {
 	});
 
 	sr.reveal('.wave-container', {
-			duration: 3700, //tiempo
+			duration: 4700, //tiempo
 		///delay:1000,
 		origin: 'top', //origen
-		scale: 1.5,
-		distance: '-0' //distancia
+		distance: '70px' //distancia
 		
 
 
@@ -555,7 +554,7 @@ sr.reveal('.textoSeccion3', {
         z: 50
     },
 		duration: 2500, //tiempo
-		delay:500,
+		delay:800,
 		origin: 'top', //origen
 		distance: '50px' //distancia
 
