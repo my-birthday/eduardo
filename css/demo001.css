@@ -2281,7 +2281,7 @@ h1 {
 
 .wave-text span {
     display: inline-block;
-    font-size: 4rem;
+    font-size: 3.5rem;
     animation: wave 2s ease-in-out infinite;
 }
 
